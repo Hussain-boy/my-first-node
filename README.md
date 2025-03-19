@@ -1,2 +1,2 @@
 # my-first-node
-welcome to Github pro
+welcome to Github plus
